@@ -1,6 +1,6 @@
 package java_practice;
 
-/* 練習問題1、自由記述ソースコード
+/* Lecture2,練習問題1、自由記述ソースコード
    アクセス修飾子は"public"、メソッドは1つ */
 public class Gakuseki {
 

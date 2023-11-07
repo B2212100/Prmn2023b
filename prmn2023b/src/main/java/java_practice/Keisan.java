@@ -1,6 +1,6 @@
 package java_practice;
 
-/* 練習問題2、自由記述ソースコード
+/* Lecture2,練習問題2、自由記述ソースコード
    数値の計算、判定のみを行う */
 public class Keisan {
 

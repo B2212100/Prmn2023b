@@ -2,7 +2,7 @@ package java_practice;
 
 import java.util.Scanner; /* Scannerライブラリを使用すると、自動的にインポートされる */
 
-/* 練習問題1、掲示ソースコード
+/* Lecture2,練習問題1、掲示ソースコード
    変更点は明示する */
 public class Prac1 {
 

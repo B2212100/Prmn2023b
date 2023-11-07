@@ -2,7 +2,7 @@ package java_practice;
 
 import java.util.Scanner;
 
-/* 練習問題3、自由記述のソースコード（main文） */
+/* Lecture2,練習問題3、自由記述のソースコード（main文） */
 public class Prac3 {
 
     /* 事前に"学籍番号"とそれに対応する"パスワード"を定義（例：5つ以上） */

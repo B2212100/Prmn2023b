@@ -2,7 +2,7 @@ package java_practice;
 
 import java.util.Scanner;
 
-/* 練習問題2、掲示ソースコード
+/* Lecture2,練習問題2、掲示ソースコード
    ここでは変更後のみを記述する */
 public class Prac2 {
 

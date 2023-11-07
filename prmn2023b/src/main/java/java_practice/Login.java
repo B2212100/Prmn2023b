@@ -1,6 +1,6 @@
 package java_practice;
 
-/* 練習問題3、自由記述ソースコード
+/* Lecture2,練習問題3、自由記述ソースコード
    学籍番号とパスワードの管理、認証を行うメソッドを考えた */
 public class Login {
 
