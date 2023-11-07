@@ -5,10 +5,10 @@ package java_practice;
 public class Keisan {
 
     /* 入力された数値5つの合計値を求めるメソッド */
-    public int sum(int[] num) {
+    public int sum(int[] nums) {
         int sum = 0;
-        for (int nums : num) {
-            sum += nums;
+        for (int num : nums) {
+            sum += num;
         }
         return sum;
     }
